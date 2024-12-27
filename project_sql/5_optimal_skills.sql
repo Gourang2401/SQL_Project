@@ -49,3 +49,68 @@ ORDER BY
     demand_count DESC,
     avg_salary DESC
 LIMIT 25;
+
+/*
+[
+  {
+    "skill_id": 0,
+    "skills": "sql",
+    "demand_count": "46",
+    "avg_salary": "92984"
+  },
+  {
+    "skill_id": 181,
+    "skills": "excel",
+    "demand_count": "39",
+    "avg_salary": "88519"
+  },
+  {
+    "skill_id": 1,
+    "skills": "python",
+    "demand_count": "36",
+    "avg_salary": "95933"
+  },
+  {
+    "skill_id": 182,
+    "skills": "tableau",
+    "demand_count": "20",
+    "avg_salary": "95103"
+  },
+  {
+    "skill_id": 5,
+    "skills": "r",
+    "demand_count": "18",
+    "avg_salary": "86609"
+  },
+  {
+    "skill_id": 183,
+    "skills": "power bi",
+    "demand_count": "17",
+    "avg_salary": "109832"
+  },
+  {
+    "skill_id": 74,
+    "skills": "azure",
+    "demand_count": "15",
+    "avg_salary": "98570"
+  },
+  {
+    "skill_id": 76,
+    "skills": "aws",
+    "demand_count": "12",
+    "avg_salary": "95333"
+  },
+  {
+    "skill_id": 92,
+    "skills": "spark",
+    "demand_count": "11",
+    "avg_salary": "118332"
+  },
+  {
+    "skill_id": 79,
+    "skills": "oracle",
+    "demand_count": "11",
+    "avg_salary": "104260"
+  }
+]
+*/
