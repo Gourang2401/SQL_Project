@@ -613,6 +613,7 @@ Tools for big data processing, like Spark and Databricks, also make the list but
     "company_name": "Avaloq",
     "skills": "power bi"
   },
+
   {
     "job_id": 943701,
     "job_title": "Data Analyst",

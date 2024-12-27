@@ -5,7 +5,7 @@ CREATE TABLE public.company_dim
     name TEXT,
     link TEXT,
     link_google TEXT,
-    thumbnail TEXT
+    thumbnail TEXT 
 );
 
 -- Create skills_dim table with primary key

@@ -11,7 +11,7 @@ NOTE: If you are having issues with permissions. And you get error:
     - This opens a terminal window to write the following code
 4. Get the absolute file path of your csv files
     1. Find path by right-clicking a CSV file in VS Code and selecting “Copy Path”
-5. Paste the following into `PSQL Tool`, (with the CORRECT file path)
+5. Paste the following  into `PSQL Tool`, (with the CORRECT file path)
 
 \copy company_dim FROM 'C:\Users\Sristi v\Downloads\SQL_Project\csv_files\company_dim.csv' WITH (FORMAT csv, HEADER true, DELIMITER ',', ENCODING 'UTF8');
 

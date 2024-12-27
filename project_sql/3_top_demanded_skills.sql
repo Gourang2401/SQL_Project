@@ -18,7 +18,7 @@ WHERE
     job_location LIKE '%India'
 GROUP BY
     skills
-ORDER BY
+ORDER BY 
     demand_count DESC
 LIMIT 5;
 
