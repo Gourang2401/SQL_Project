@@ -15,6 +15,7 @@ NOTE: If you are having issues with permissions. And you get error:
 
 \copy company_dim FROM 'C:\Users\Sristi v\Downloads\SQL_Project\csv_files\company_dim.csv' WITH (FORMAT csv, HEADER true, DELIMITER ',', ENCODING 'UTF8');
 
+
 \copy skills_dim FROM 'C:\Users\Sristi v\Downloads\SQL_Project\csv_files\skills_dim.csv' WITH (FORMAT csv, HEADER true, DELIMITER ',', ENCODING 'UTF8');
 
 \copy job_postings_fact FROM 'C:\Users\Sristi v\Downloads\SQL_Project\csv_files\job_postings_fact.csv' WITH (FORMAT csv, HEADER true, DELIMITER ',', ENCODING 'UTF8');

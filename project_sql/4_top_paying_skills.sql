@@ -29,6 +29,7 @@ LIMIT 25;
     "avg_salary": "165000"
   },
   {
+  
     "skills": "gitlab",
     "avg_salary": "165000"
   },

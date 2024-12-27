@@ -3,7 +3,7 @@ Answer: What are the most optimal skills to learn (aka it's in high demand and a
 - Identify skills in high demand and associated with high average salaries for Data Analyst riles
 - Concentrates on india located positions with specified salaries
 - Why? Targets skills that offer job security (high demand) and financial benefits (high salaries),
-    offering strategic  insights for career development in data analysis
+    offering strategic insights for career development in data analysis
 */
 
 WITH skills_demand AS (
